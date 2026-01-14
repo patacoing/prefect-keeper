@@ -1444,7 +1444,7 @@ wheels = [
 
 [[package]]
 name = "prefect-keeper"
-version = "0.1.0"
+version = "0.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "keeper-secrets-manager-core" },
